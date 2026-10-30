@@ -1,5 +1,7 @@
 # RelaySwap
 
+> **[Open the live demo →](https://tejaswikharade.github.io/relay-swap/)**
+
 An educational, two-token constant-product AMM (`x · y = k`) with a compact Solidity pair contract and a neon-terminal React demo.
 
 ## Included
